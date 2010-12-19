@@ -1,0 +1,5 @@
+.classpath
+bin
+gen
+generated_libs
+local.properties
