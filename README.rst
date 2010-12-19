@@ -11,11 +11,14 @@ Installation
 
 	git clone git://github.com/t0ster/emark.git
 	cd emark
+	cp local.properties.default local.properties
 	
+* Edit your local.properties
 * Launch Emulator
 
 ::
 
+	jruby -S rake
 	jruby -S rake installl
 	
 * Enjoy! :)
