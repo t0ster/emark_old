@@ -24,6 +24,12 @@ Installation
 * Enjoy! :)
 
 
+Develop
+=======
+
+All ruby scripts are at `assets/scripts`. Entry point is in `assets/scripts/e_mark.rb`
+
+
 .. _jruby: http://jruby.org/
 .. _`the Android SDK`: http://developer.android.com/sdk/index.html
 .. _Emulator: http://developer.android.com/guide/developing/tools/emulator.html
